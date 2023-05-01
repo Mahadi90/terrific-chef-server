@@ -1,0 +1,299 @@
+[
+  {
+    "picture": "https://plus.unsplash.com/premium_photo-1661344424663-61d873ad5647?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "name": "Giovanni Rossi",
+    "years_of_experience": 15,
+    "recipe_likes": 2000,
+    "number_of_recipes": 12,
+    "bio": "Giovanni Rossi is a master of Italian cuisine, with over 15 years of experience in the kitchen. His passion for cooking began at a young age, and he has since honed his skills and developed a unique style that blends traditional Italian flavors with modern techniques. Giovanni's dishes are always a hit with his customers, and he takes pride in using only the freshest ingredients in his cooking.",
+    
+        "recipes": [
+          {
+            "name": "Spaghetti Carbonara",
+            "img": "https://images.unsplash.com/photo-1588013273468-315fd88ea34c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+            "cooking_method": "Boiling and pan-frying",
+            "rating": 4.5,
+            "ingredients": [
+              "Spaghetti",
+              "Pancetta",
+              "Eggs",
+              "Parmesan cheese",
+              "Garlic"
+            ]
+          },
+          {
+            "name": "Margherita Pizza",
+            "img" : "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+            "cooking_method": "Baking",
+            "rating": 4.8,
+            "ingredients": [
+              "Pizza dough",
+              "Tomatoes",
+              "Mozzarella cheese",
+              "Basil leaves",
+              "Olive oil"
+            ]
+          },
+          {
+            "name": "Lasagna",
+            "img": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+            "cooking_method": "Baking",
+            "rating": 4.7,
+            "ingredients": [
+              "Lasagna noodles",
+              "Ground beef",
+              "Tomato sauce",
+              "Ricotta cheese",
+              "Mozzarella cheese"
+            ]
+          }
+        ]
+      
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1532635211-8ec15f2ce05c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+    "name": "Maria Bianchi",
+    "years_of_experience": 10,
+    "recipe_likes": 1500,
+    "number_of_recipes": 13,
+    "bio": "Maria Bianchi is a rising star in the Italian culinary world, with a talent for creating innovative and delicious dishes. She has spent over 10 years working in some of Italy's top restaurants, and has developed a deep understanding of the flavors and techniques that make Italian cuisine so special. Maria is known for her creativity and attention to detail, and her dishes always delight and surprise her customers.",
+        "recipes": [
+          {
+            "name": "Pesto Pasta",
+            "img": "https://images.unsplash.com/photo-1616299908398-9af1134ad522?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=437&q=80",
+            "cooking_method": "Boiling and mixing",
+            "rating": 4.6,
+            "ingredients": [
+              "Pasta",
+              "Basil leaves",
+              "Pine nuts",
+              "Parmesan cheese",
+              "Garlic"
+            ]
+          },
+          {
+            "name": "Caprese Salad",
+            "img": "https://images.unsplash.com/photo-1570197571499-166b36435e9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=406&q=80",
+            "cooking_method": "Mixing",
+            "rating": 4.9,
+            "ingredients": [
+              "Tomatoes",
+              "Mozzarella cheese",
+              "Basil leaves",
+              "Balsamic vinegar",
+              "Olive oil"
+            ]
+          },
+          {
+            "name": "Chicken Parmesan",
+            "img": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "cooking_method": "Baking",
+            "rating": 4.8,
+            "ingredients": [
+              "Chicken breasts",
+              "Bread crumbs",
+              "Parmesan cheese",
+              "Tomato sauce",
+              "Mozzarella cheese"
+            ]
+          }
+        ]
+      
+  },
+  {
+    "picture": "https://plus.unsplash.com/premium_photo-1664298747667-b7499ee8963b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
+    "name": "Luigi Moretti",
+    "years_of_experience": 20,
+    "number_of_recipes": 5,
+    "recipe_likes": 3000,
+    "bio": "Luigi Moretti is a seasoned chef with over 20 years of experience in the kitchen. He has worked in some of the most prestigious restaurants in Italy, and has earned a reputation for his impeccable technique and refined palate. Luigi's dishes are always beautifully presented, and he has a talent for creating elegant and sophisticated flavors that leave a lasting impression on his customers.",
+    "recipes": [
+        {
+          "name": "Minestrone Soup",
+          "img": "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+          "cooking_method": "Boiling and simmering",
+          "rating": 4.5,
+          "ingredients": [
+            "Carrots",
+            "Celery",
+            "Tomatoes",
+            "Zucchini",
+            "Beans"
+          ]
+        },
+        {
+          "name": "Bruschetta",
+          "img": "https://images.unsplash.com/photo-1572695157366-5e585ab2b69f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+          "cooking_method": "Grilling",
+          "rating": 4.7,
+          "ingredients": [
+            "Bread",
+            "Tomatoes",
+            "Garlic",
+            "Basil leaves",
+            "Olive oil"
+          ]
+        },
+        {
+          "name": "Risotto",
+          "img": "https://images.unsplash.com/photo-1637361874063-e5e415d7bcf7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+          "cooking_method": "Simmering and stirring",
+          "rating": 4.8,
+          "ingredients": [
+            "Arborio rice",
+            "Chicken broth",
+            "Parmesan cheese",
+            "Mushrooms",
+            "Onion"
+          ]
+        }
+      ]
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1558138838-76294be30005?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+    "name": "Isabella Ricci",
+    "years_of_experience": 12,
+    "number_of_recipes": 7,
+    "recipe_likes": 1800,
+    "bio": "Isabella Ricci is a passionate chef with a flair for creating bold and flavorful dishes. She has worked in kitchens all over Italy, and has developed a unique style that blends traditional Italian ingredients with modern techniques. Isabella's dishes are always packed with flavor, and she takes great pride in using only the best ingredients to create unforgettable meals for her customers.",
+    "recipes": [
+        {
+          "name": "Tiramisu",
+          "img": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=436&q=80",
+          "cooking_method": "Layering and refrigerating",
+          "rating": 4.9,
+          "ingredients": [
+            "Ladyfingers",
+            "Mascarpone cheese",
+            "Eggs",
+            "Sugar",
+            "Coffee"
+          ]
+        },
+        {
+          "name": "Focaccia Bread",
+          "img": "https://plus.unsplash.com/premium_photo-1667806841226-afe78701f4a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=454&q=80",
+          "cooking_method": "Baking",
+          "rating": 4.7,
+          "ingredients": [
+            "Flour",
+            "Olive oil",
+            "Rosemary",
+            "Sea salt",
+            "Yeast"
+          ]
+        },
+        {
+          "name": "Osso Buco",
+          "img": "https://media.istockphoto.com/id/1427466701/photo/ossobuco-with-vegetables-on-plate-with-knife-and-fork-on-wooden-background.jpg?s=1024x1024&w=is&k=20&c=5XsWIqnTFaZUs7I5RKeXPx8ecFlRtVSrE9qLxzTGVg4=",
+          "cooking_method": "Braising",
+          "rating": 4.8,
+          "ingredients": [
+            "Veal shanks",
+            "Tomatoes",
+            "Carrots",
+            "Onion",
+            "Garlic"
+          ]
+        }
+      ]
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1542834291-c514e77b215f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "name": "Antonio Vitale",
+    "years_of_experience": 18,
+    "recipe_likes": 2500,
+    "number_of_recipes": 9,
+    "bio": "Antonio Vitale is a master of Italian cuisine, with a career spanning over 18 years in the kitchen. He has worked in some of Italy's most renowned restaurants, and has developed a deep understanding of the rich and diverse flavors that define Italian cuisine. Antonio's dishes are always beautifully presented, and he has a talent for creating complex and nuanced flavors that leave his customers wanting more.",
+    "recipes": [
+        {
+          "name": "Spaghetti Aglio e Olio",
+          "img": "https://images.unsplash.com/photo-1673442635965-34f1b36d8944?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+          "cooking_method": "Boiling and sautéing",
+          "rating": 4.7,
+          "ingredients": [
+            "Spaghetti",
+            "Garlic",
+            "Olive oil",
+            "Red pepper flakes",
+            "Parsley"
+          ]
+        },
+        {
+          "name": "Capellini Pomodoro",
+          "img": "https://images.unsplash.com/photo-1592774912353-72756004ecbb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80",
+          "cooking_method": "Boiling and mixing",
+          "rating": 4.6,
+          "ingredients": [
+            "Angel hair pasta",
+            "Tomatoes",
+            "Garlic",
+            "Basil",
+            "Olive oil"
+          ]
+        },
+        {
+          "name": "Margherita Pizza",
+          "img": "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "cooking_method": "Baking",
+          "rating": 4.8,
+          "ingredients": [
+            "Pizza dough",
+            "Tomato sauce",
+            "Mozzarella cheese",
+            "Basil leaves",
+            "Olive oil"
+          ]
+        }
+      ]
+  },
+  {
+    "picture": "https://plus.unsplash.com/premium_photo-1664391750931-c1ee3adfe39f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1526&q=80",
+    "name": "Francesca Romano",
+    "years_of_experience": 8,
+    "recipe_likes": 1200,
+    "number_of_recipes": 4,
+    "bio": "Francesca Romano is a talented young chef with a passion for Italian cuisine. She has spent the last 8 years working in kitchens all over Italy, and has developed a unique style that blends classic Italian flavors.",
+    "recipes": [
+        {
+          "name": "Pesto Pasta",
+          "img": "https://plus.unsplash.com/premium_photo-1661666882005-9fdeeb6fef80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+          "cooking_method": "Boiling and tossing",
+          "rating": 4.7,
+          "ingredients": [
+            "Pasta",
+            "Basil",
+            "Garlic",
+            "Pine nuts",
+            "Parmesan cheese"
+          ]
+        },
+        {
+          "name": "Bruschetta Chicken",
+          "img": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=853&q=80",
+          "cooking_method": "Grilling and baking",
+          "rating": 4.5,
+          "ingredients": [
+            "Chicken breasts",
+            "Tomatoes",
+            "Garlic",
+            "Basil",
+            "Mozzarella cheese"
+          ]
+        },
+        {
+          "name": "Margherita Flatbread",
+          "img": "https://images.unsplash.com/photo-1611599539392-0198d33c4c1e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+          "cooking_method": "Baking",
+          "rating": 4.6,
+          "ingredients": [
+            "Flatbread",
+            "Tomatoes",
+            "Mozzarella cheese",
+            "Basil leaves",
+            "Olive oil"
+          ]
+        }
+      ]
+  }
+]
